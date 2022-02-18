@@ -413,8 +413,9 @@ plt.show()
 
 
     
-![png](output_6_0.png)
-    
+
+
+![](https://github.com/highjoule/prediction_random_forest/blob/main/images/output_6_0.png)    
 
 
 
@@ -1149,8 +1150,8 @@ plt.show()
 ```
 
 
-    
-![png](output_30_0.png)
+
+![](https://github.com/highjoule/prediction_random_forest/blob/main/images/output_30_0.png)
     
 
 
@@ -1241,8 +1242,9 @@ plt.legend()
 
 
 
+![](https://github.com/highjoule/prediction_random_forest/blob/main/images/output_37_1.png)
     
-![png](output_37_1.png)
+
     
 
 
@@ -1262,8 +1264,8 @@ plt.legend()
 
 
 
-    
-![png](output_38_1.png)
+ 
+![](https://github.com/highjoule/prediction_random_forest/blob/main/images/output_38_1.png)   
     
 
 
