@@ -1,4 +1,4 @@
-# This model review 3 different models that predicts if the entries of a financial company is fraudulent
+# This model review 3 different models that predicts if an operation of a financial company is fraudulent
 
 
 
