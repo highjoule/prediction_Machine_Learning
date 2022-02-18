@@ -390,7 +390,7 @@ plt.show()
 
 
     
-![https://github.com/highjoule/prediction_random_forest/blob/main/images/output_5_0.png](output_5_0.png)
+![](https://github.com/highjoule/prediction_random_forest/blob/main/images/output_5_0.png)
     
 
 
