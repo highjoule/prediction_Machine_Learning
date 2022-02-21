@@ -1076,7 +1076,7 @@ X_train[0,:]
 
 
 
-#### Random forest prediction method
+## Random forest prediction method
 
 
 ```python
@@ -1166,7 +1166,7 @@ print(f'Accuracy Score:\n{accuracy_score(y_test, predicted):0.3f}')
     0.996
     
 
-## MiniBatch K-Means Method
+## MiniBatch K-Means prediction method
 
 
 ```python
@@ -1291,7 +1291,7 @@ cm
 
 
 
-## Simple regression method
+## Simple regression prediction method
 
 
 ```python
