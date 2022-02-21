@@ -1166,7 +1166,7 @@ print(f'Accuracy Score:\n{accuracy_score(y_test, predicted):0.3f}')
     0.996
     
 
-### Bonus MiniBatch Means
+## MiniBatch K-Means Method
 
 
 ```python
@@ -1291,7 +1291,7 @@ cm
 
 
 
-### Bonus Simple regression method
+## Simple regression method
 
 
 ```python
